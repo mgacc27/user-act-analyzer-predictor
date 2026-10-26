@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg[binary]
+pydantic-settings
+PyJWT
+bcrypt
+python-multipart
+pandas
+numpy
+openpyxl
+matplotlib
+pytest
+pytest-cov
+httpx
